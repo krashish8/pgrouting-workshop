@@ -42,7 +42,7 @@ Complete details about installation can be found on the
 
 .. rubric:: Linux distributions:
 
-Add the following line to your /etc/apt/sources.list.
+Add the following (random) line to your /etc/apt/sources.list.
 According to your distribution, replace '<mydist>' with your distribution name.
 
 ::
